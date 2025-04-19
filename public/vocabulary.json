@@ -1,0 +1,33 @@
+{
+    "Spanish": [
+      { "word": "Hello", "translation": "Hola" },
+      { "word": "Thank you", "translation": "Gracias" },
+      { "word": "Goodbye", "translation": "Adiós" },
+      { "word": "How are you?", "translation": "¿Cómo estás?" },
+      { "word": "Good morning", "translation": "Buenos días" },
+      { "word": "I’m fine", "translation": "Estoy bien" },
+      { "word": "Where is the bathroom?", "translation": "¿Dónde está el baño?" },
+      { "word": "Nice to meet you", "translation": "Mucho gusto" }
+    ],
+    "French": [
+      { "word": "Hello", "translation": "Bonjour" },
+      { "word": "Thank you", "translation": "Merci" },
+      { "word": "Goodbye", "translation": "Au revoir" },
+      { "word": "How are you?", "translation": "Comment ça va?" },
+      { "word": "Good morning", "translation": "Bon matin" },
+      { "word": "I’m fine", "translation": "Je vais bien" },
+      { "word": "Where is the bathroom?", "translation": "Où sont les toilettes?" },
+      { "word": "Nice to meet you", "translation": "Enchanté" }
+    ],
+    "German": [
+      { "word": "Hello", "translation": "Hallo" },
+      { "word": "Thank you", "translation": "Danke" },
+      { "word": "Goodbye", "translation": "Auf Wiedersehen" },
+      { "word": "How are you?", "translation": "Wie geht’s?" },
+      { "word": "Good morning", "translation": "Guten Morgen" },
+      { "word": "I’m fine", "translation": "Mir geht’s gut" },
+      { "word": "Where is the bathroom?", "translation": "Wo ist die Toilette?" },
+      { "word": "Nice to meet you", "translation": "Schön, dich kennenzulernen" }
+    ]
+  }
+  
